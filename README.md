@@ -1,2 +1,43 @@
-# expense-tracker
-Task 1 – Expense Tracker (C Language) As a C Language Intern at Vertex Development, I developed a console-based Expense Tracker using C. The application records income and expenses, manages data with file handling, and generates summaries, strengthening my skills in structured programming and logic building.
+# 💰 Expense Tracker – C Language
+
+## 📌 Internship Task
+**Task 1 – Expense Tracker**  
+C Language Intern at **Vertex Development**
+
+---
+
+## 📝 Project Description
+This project is a console-based Expense Tracker application developed using **ANSI C**.  
+It helps users record income and expenses, manage financial records, and view summaries.  
+The project focuses on clean logic, structured programming, and file handling.
+
+---
+
+## ✨ Features
+- Add income and expense records  
+- Smart date input with validation  
+- View all transactions in a formatted table  
+- Monthly income and expense summary  
+- Category-wise expense summary  
+- Delete records by ID  
+- Data persistence using file handling  
+
+---
+
+## 🛠️ Technology Used
+- Programming Language: **C (ANSI C)**
+- Compiler: GCC / Turbo C
+- Platform: Terminal / Console
+
+---
+
+## ▶️ How to Run
+```bash
+gcc expense_tracker.c -o expense_tracker
+./expense_tracker
+expense_tracker.c
+expenses.dat   (auto-generated)
+README.md
+```
+
+
